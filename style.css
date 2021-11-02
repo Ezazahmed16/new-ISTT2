@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  'Roboto Condensed', sans-serif;
+}
+/* Nav */
+.menu-bar{
+    background-color: #2b3140;
+    padding: 15px 0px;
+}
+.main_bg{
+    background-color: cornsilk;
+}
+.intro{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.service-img img{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    margin: 15px auto;
+    width: 40%;
+    height: 300px;
+}
+.footer-bg{
+    background-color: #2b3140;
+    padding: 10px 0px;
+}
